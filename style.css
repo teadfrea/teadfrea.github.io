@@ -1,0 +1,11 @@
+body {
+    font-size:17px;
+    font-family: sans-serif;
+    line-height: 1.5;
+    
+    background-color: rgba(179, 202, 228, 0.829);
+}
+
+p {
+    font-weight: bold;
+}
